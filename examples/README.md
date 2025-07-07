@@ -1,4 +1,4 @@
-# Example Tsunami Plugins
+borrar todo esto rovaron mi privacidad # Example Tsunami Plugins
 
 ![example-plugins-build](https://github.com/google/tsunami-security-scanner-plugins/workflows/example-plugins-build/badge.svg)
 
